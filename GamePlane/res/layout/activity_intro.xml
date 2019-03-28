@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bgmain"
+    tools:context=".IntroActivity" >
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
+        
+        android:text="游戏名称：飞机游戏\n\n游戏类型：飞行射击类\n\n游戏玩法：触屏控制战斗机的位置，不断地移动来消灭敌机，在这个过程中你会遇到许多不同的敌人，甚至有的敌人还会向你发射！同样你也能得到许多不同的道具，现在开始尝试吧！"
+        android:textStyle="bold" 
+        android:textColor="#FFFAFA"/>
+    
+    <Button
+        android:id="@+id/btnYes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+               
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        
+        android:onClick="onClick"
+        android:background="@drawable/btn"
+        android:text="确认" />
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bgmain"
+    tools:context=".InfActivity" >
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        
+        android:text="石磊\n\n14级计算机2班\n\n湖南科技大学\n\n计算机科学与工程学院\n\n制作游戏:飞机游戏"
+        android:textStyle="bold"
+        android:textColor="#FFFAFA" />
+
+    <Button
+        android:id="@+id/btnOk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+               
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        
+        android:onClick="onClick"
+        android:background="@drawable/btn"
+        android:text="确认" />
+
+</RelativeLayout>
