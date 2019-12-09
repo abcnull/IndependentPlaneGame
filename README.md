@@ -1,5 +1,6 @@
 [TOC]
 
+**[English](https://github.com/abcnull/IndependentPlaneGame/edit/master/README_en.md) | [博客](https://blog.csdn.net/abcnull/article/details/103453758)**
 # IndependentPlaneGame
 
 ## 介绍
