@@ -4,10 +4,6 @@
 
 # IndependentPlaneGame
 
-## GitHub Source
-
-GitHub source: [IndependentPlaneGame](https://github.com/abcnull/IndependentPlaneGame)
-
 ## Brief
 
 This project was completed long ago.Before i use Android Studio to complete this project. This is a Plane Game without mainstream game engine instead of this is android come with graphics package. Canvase in graphics package takes the main task. In general, through extend relationshit almost class will extend Sprite Class. This peoject provide lots of features
@@ -20,8 +16,6 @@ This project was completed long ago.Before i use Android Studio to complete this
 Welcome to **Watch**，**Star** and **Fork**！
 
 ## Key Code
-
-## 关键代码
 
 1. Collision detection:
 
