@@ -5,7 +5,7 @@
 
 ## 介绍
 
-此项目完成比较久远，当初使用 Android Studio 完成。此项目完成的是一个飞机游戏，没有用到主流的有引擎，直接使用的是 android 自带的 graphics 图形包，使用了其中的 canvase 来进行图形界面的绘制。大体上通过继承关系，所有单位都会继承一个 sprite 精灵对象，然后还有许多其他小功能。
+此项目完成比较久远，当初使用 Android Studio 完成。此项目完成的是一个飞机游戏，没有用到主流的有引擎，直接使用的是 android 自带的 graphics 图形包，使用了其中的 canvas 来进行图形界面的绘制。大体上通过继承关系，所有单位都会继承一个 sprite 精灵对象，然后还有许多其他小功能。
 
 - 框架作者：**abcnull**
 - csdn 博客：**https://blog.csdn.net/abcnull**
