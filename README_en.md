@@ -15,6 +15,10 @@ This project was completed long ago.Before i use Android Studio to complete this
 
 Welcome to **Watch**，**Star** and **Fork**！
 
+## Works Show
+     
+![MP4 Link](https://raw.githubusercontent.com/abcnull/Image-Resources/master/IndependentPlaneGame/d57bcaae960a5f8b59660361435f3ed5.mp4)
+
 ## Key Code
 
 1. Collision detection:
