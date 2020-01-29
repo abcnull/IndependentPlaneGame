@@ -15,12 +15,8 @@
 欢迎大家 **Watch**，**Star** 和 **Fork**！
 
 ## 展示
-
-<video id="video" controls="" preload="none" poster="https://raw.githubusercontent.com/abcnull/Image-Resources/master/IndependentPlaneGame/d57bcaae960a5f8b59660361435f3ed5.mp4">
-      <source id="mp4" src="https://raw.githubusercontent.com/abcnull/Image-Resources/master/IndependentPlaneGame/d57bcaae960a5f8b59660361435f3ed5.mp4" type="video/mp4">
-</video>
      
-![aa](https://raw.githubusercontent.com/abcnull/Image-Resources/master/IndependentPlaneGame/d57bcaae960a5f8b59660361435f3ed5.mp4)
+![视频链接](https://raw.githubusercontent.com/abcnull/Image-Resources/master/IndependentPlaneGame/d57bcaae960a5f8b59660361435f3ed5.mp4)
 
 
 ## 关键代码
